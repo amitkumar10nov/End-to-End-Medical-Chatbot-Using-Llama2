@@ -7,3 +7,7 @@ conda create -n medicalchatpot python=3.8 -y
 
 '''bash
 conda activate medicalchatpot
+
+'''bash
+pip install -r requirements.txt
+
